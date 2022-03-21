@@ -1,0 +1,15 @@
+Added Auto Reply file supported!
+chat commands:
+AFK MESSAGE:
+afk message support 4 chat commands and also protection against mute!
+if player type your name in the chat it will send him custom message that you choose!
+if someone uses type your name and make you send the message he cant do it again until someone else does or until you type reset in the chat!
+this way you wont get muted for spam.!
+
+chat commands for afk message:
+Enable - turn on the auto reply for the afk message.
+Disable - turn off the auto reply for the afk message.
+Reset - clear last id value.
+msg <your custom message>.
+
+more cool chat commands coming soon, stay tuned!
