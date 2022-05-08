@@ -1,15 +1,30 @@
+Update 22/03/2022:
 Added Auto Reply file supported!
-chat commands:
+
 AFK MESSAGE:
 afk message support 4 chat commands and also protection against mute!
 if player type your name in the chat it will send him custom message that you choose!
 if someone uses type your name and make you send the message he cant do it again until someone else does or until you type reset in the chat!
 this way you wont get muted for spam.!
 
-chat commands for afk message:
-Enable - turn on the auto reply for the afk message.
-Disable - turn off the auto reply for the afk message.
+chat commands for afk message (to enable and disable just click the button in settings->YairClient):
 Reset - clear last id value.
 msg <your custom message>.
 
-more cool chat commands coming soon, stay tuned!
+Update 08/05/2022:
+
+Added Auto Emote spam with speed control!
+You can enable it in settings->YairClient then mark the AutoEmote button.
+to change the emote speed you can use the chat command:
+speed <value>
+for example: speed 100
+(the values are in milliseconds)
+
+Tip: dont do the emote thread too fast (0-100) because it may cause some lags!
+
+bubbleChat while walking(work only in BlmapChill and you can only hook and move/jump with it).
+chat commands:
+bubble - enable it.
+unbubble - disable it.
+
+more cool Stuff coming soo so stay tuned!
